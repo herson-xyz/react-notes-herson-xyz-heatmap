@@ -25,7 +25,7 @@ export default function App()
         tooltipDataAttrs={value => {
             if (value.focus != "no-focus" && value.focus != undefined) {
                 return {
-                    'data-tip': `On ${value.date} I focused on ${value.focus}`,
+                    'data-tip': `Date: ${value.date} Focus: ${value.focus}`,
                 };
             }
         }}
