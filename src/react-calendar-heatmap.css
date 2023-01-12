@@ -81,6 +81,12 @@
 .react-calendar-heatmap .color-focus-three-js {
   fill: #beaef6;
 }
+.react-calendar-heatmap .color-focus-react-three-fiber {
+  fill: #988BC4;
+}
+.react-calendar-heatmap .color-focus-react {
+  fill: #726893;
+}
 .react-calendar-heatmap .color-focus-touchdesigner {
   fill: #f6beae;
 }
