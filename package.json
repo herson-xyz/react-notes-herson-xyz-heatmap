@@ -1,9 +1,12 @@
 {
   "name": "test",
   "version": "1.0.0",
+  "homepage": "https://herson-xyz.github.io/react-notes-herson-xyz-heatmap",
   "description": "",
   "main": "calendar-heatmap.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "react-scripts start",
     "build": "react-scripts build"
@@ -30,5 +33,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
