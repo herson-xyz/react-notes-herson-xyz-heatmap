@@ -27,10 +27,6 @@ export default function App()
                 return {
                     'data-tip': `On ${value.date} I focused on ${value.focus}`,
                 };
-            } else {
-                return {
-                    'data-tip': `${value.date}`,
-                };
             }
         }}
         showWeekdayLabels={true}
