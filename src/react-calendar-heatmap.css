@@ -102,10 +102,12 @@
 .react-calendar-heatmap .color-focus-3d-scanning {
   fill: #02f5c0;
 }
-.react-calendar-heatmap .color-focus-glsl {
-  fill: #d27ef4;
-} */
 
+*/
+
+.react-calendar-heatmap .color-focus-glsl {
+  fill: #aaa;
+}
 .react-calendar-heatmap .color-focus-conceptual-research {
   fill: #beaef6;
 }
