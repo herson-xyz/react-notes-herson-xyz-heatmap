@@ -75,7 +75,7 @@
  * Focus color scale
  */
 
-.react-calendar-heatmap .color-focus-no-focus {
+/* .react-calendar-heatmap .color-focus-no-focus {
   fill: #010202;
 }
 .react-calendar-heatmap .color-focus-three-js {
@@ -104,4 +104,17 @@
 }
 .react-calendar-heatmap .color-focus-glsl {
   fill: #d27ef4;
+} */
+
+.react-calendar-heatmap .color-focus-no-focus {
+  fill: #010202;
+}
+.react-calendar-heatmap .color-focus-conceptual-research {
+  fill: #beaef6;
+}
+.react-calendar-heatmap .color-focus-react-technical-research {
+  fill: #02f5c0;
+}
+.react-calendar-heatmap .color-focus-rea {
+  fill: #7eb5f4;
 }
