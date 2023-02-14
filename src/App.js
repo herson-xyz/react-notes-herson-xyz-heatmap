@@ -1,17 +1,24 @@
 import CalendarHeatmap from 'react-calendar-heatmap';
 import ReactTooltip from 'react-tooltip';
 import data from './data.json'
+import Legend from './Legend';
 
 import './react-calendar-heatmap.css';
 import './styles.css';
 
 const today = new Date();
+const items = [
+  { color: '#beaef6', label: 'Conceptual Research' },
+  { color: '#02f5c0', label: 'Technical Research' },
+  { color: '#7eb5f4', label: 'Prototyping' },
+];
 
 export default function App()
 {
         
   return (
     <div>
+      <Legend items={items} />
       <CalendarHeatmap
         startDate={shiftDate(today, -150)}
         endDate={today}
