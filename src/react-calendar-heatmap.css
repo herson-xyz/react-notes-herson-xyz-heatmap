@@ -105,18 +105,21 @@
 
 */
 
-.react-calendar-heatmap .color-focus-no-focus {
-  fill: #aaa;
-}
-.react-calendar-heatmap .color-focus-conceptual-research {
-  fill: #beaef6;
-}
 .react-calendar-heatmap .color-focus-technical-research {
   fill: #02f5c0;
 }
-.react-calendar-heatmap .color-focus-prototyping {
+.react-calendar-heatmap .color-focus-sound {
   fill: #7eb5f4;
 }
-.react-calendar-heatmap .color-focus-embodied-research {
+.react-calendar-heatmap .color-focus-visuals {
   fill: #e2aef6;
+}
+.react-calendar-heatmap .color-focus-av {
+  fill: #beaef6;
+}
+.react-calendar-heatmap .color-focus-writing {
+  fill: #e9e16d;
+}
+.react-calendar-heatmap .color-focus-no-focus {
+  fill: #aaa;
 }

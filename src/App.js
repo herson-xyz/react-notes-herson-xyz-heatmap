@@ -8,10 +8,10 @@ import './styles.css';
 
 const today = new Date();
 const items = [
-  { color: '#beaef6', label: 'Conceptual Research' },
-  { color: '#e2aef6', label: 'Embodied Research' },
-  { color: '#02f5c0', label: 'Technical Research' },
-  { color: '#7eb5f4', label: 'Prototyping' },
+  { color: '#7eb5f4', label: 'Sound' },
+  { color: '#e2aef6', label: 'Visuals' },
+  { color: '#beaef6', label: 'AV' },
+  { color: '#e9e16d', label: 'Writing' },
 ];
 
 export default function App()
