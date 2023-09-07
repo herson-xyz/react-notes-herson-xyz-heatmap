@@ -8,9 +8,9 @@ import './styles.css';
 
 const today = new Date();
 const items = [
-  { color: '#7eb5f4', label: 'Sound' },
-  { color: '#e2aef6', label: 'Visuals' },
-  { color: '#beaef6', label: 'AV' },
+  { color: '#7eb5f4', label: 'Algorithmic Soundscape' },
+  { color: '#e2aef6', label: '(Simulated) Biological System' },
+  { color: '#beaef6', label: 'Audiovisual System' },
   { color: '#e9e16d', label: 'Writing' },
 ];
 
