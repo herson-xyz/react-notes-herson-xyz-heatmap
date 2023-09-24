@@ -69,7 +69,7 @@ def scan_directory(dir_path):
                 if get_frontmatter(full_path):
                     focus = get_focus(full_path)
                     new_path = full_path.replace(
-                        '/Users/project404/Studio/Obsidian-1/Creative Practice', 'https://notes.herson.xyz/Creative+Practice')
+                        '/Users/main/Documents/GitHub/Creative-Practice/Creative Practice Notes', 'https://notes.herson.xyz')
                     date = get_date(file)
                     files_list.append(
                         {"date": date, "focus": focus, "path": new_path})
@@ -77,7 +77,7 @@ def scan_directory(dir_path):
 
 
 result = scan_directory(
-    '/Users/project404/Studio/Obsidian-1/Creative Practice')
+    '/Users/main/Documents/GitHub/Creative-Practice/Creative Practice Notes')
 
-with open("/Users/project404/Studio/Github/react-notes-herson-xyz-heatmap/src/data.json", "w") as f:
+with open("/Users/main/Documents/GitHub/react-notes-herson-xyz-heatmap/src/data.json", "w") as f:
     json.dump(result, f)
