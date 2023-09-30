@@ -16,6 +16,7 @@ const Legend = ({ items }) => {
           <a 
             href={link}
             style={{ color: 'inherit', textDecoration: 'none' }}
+            target="_blank"
           >
             {label}
           </a>
