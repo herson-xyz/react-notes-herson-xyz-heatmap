@@ -3,7 +3,7 @@ import React from 'react';
 const Legend = ({ items }) => {
   return (
     <ul style={{ listStyleType: 'none', padding: 0 }}>
-      {items.map(({ color, label }, i) => (
+      {items.map(({ color, label, link }, i) => (
         <li key={i} style={{ display: 'flex', alignItems: 'center' }}>
           <div
             style={{
@@ -13,7 +13,12 @@ const Legend = ({ items }) => {
               marginRight: 10,
             }}
           />
-          <span>{label}</span>
+          <a 
+            href={link}
+            style={{ color: 'inherit', textDecoration: 'none' }}
+          >
+            {label}
+          </a>
         </li>
       ))}
     </ul>
