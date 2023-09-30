@@ -43,13 +43,13 @@ def get_focus(filepath):
     for line in lines:
         if "focus" in line:
             if 'Algorithmic Soundscape' in line:
-                return 'Algorithmic Soundscape'
+                return 'sound'
             elif 'Biological Simulation' in line:
-                return 'Biological Simulation'
+                return 'visuals'
             elif 'The Network' in line:
-                return 'The Network'
+                return 'av'
             elif 'Writing' in line:
-                return 'Writing'
+                return 'writing'
     return 'no-focus'
 
 
