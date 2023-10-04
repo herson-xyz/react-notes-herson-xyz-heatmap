@@ -8,10 +8,9 @@ import './styles.css';
 
 const today = new Date();
 const items = [
-  { color: '#7eb5f4', label: 'Algorithmic Soundscape', link: 'https://notes.herson.xyz/Creative+Practice/2023/09/2023-09-04#_Algorithmic+Soundscape_+64f236' },
-  { color: '#e2aef6', label: '(Simulated) Biological System', link: 'https://notes.herson.xyz/Creative+Practice/2023/09/2023-09-04#_(Simulated)+Biological+System_+a2998a' },
-  { color: '#beaef6', label: 'The Network', link: 'https://notes.herson.xyz/Creative+Practice/2023/09/2023-09-04#~~_The+audiovisual+system_~~The+Network+8c0a94' },
-  { color: '#e9e16d', label: 'Writing', link: '' },
+  { color: '#EB2477', label: 'Developing a sound aesthetic', link: '' },
+  { color: '#e9e16d', label: 'Developing a visual aesthetic', link: '' },
+  { color: '#beaef6', label: 'Philosophy of Networks', link: '' },
 ];
 
 export default function App()
