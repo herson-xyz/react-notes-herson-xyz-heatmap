@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-notes-herson-xyz-heatmap/static/css/main.14918aaf.css",
-    "main.js": "/react-notes-herson-xyz-heatmap/static/js/main.feb435ec.js",
+    "main.css": "/react-notes-herson-xyz-heatmap/static/css/main.88a0cfc9.css",
+    "main.js": "/react-notes-herson-xyz-heatmap/static/js/main.4aeb604c.js",
     "index.html": "/react-notes-herson-xyz-heatmap/index.html",
-    "main.14918aaf.css.map": "/react-notes-herson-xyz-heatmap/static/css/main.14918aaf.css.map",
-    "main.feb435ec.js.map": "/react-notes-herson-xyz-heatmap/static/js/main.feb435ec.js.map"
+    "main.88a0cfc9.css.map": "/react-notes-herson-xyz-heatmap/static/css/main.88a0cfc9.css.map",
+    "main.4aeb604c.js.map": "/react-notes-herson-xyz-heatmap/static/js/main.4aeb604c.js.map"
   },
   "entrypoints": [
-    "static/css/main.14918aaf.css",
-    "static/js/main.feb435ec.js"
+    "static/css/main.88a0cfc9.css",
+    "static/js/main.4aeb604c.js"
   ]
 }

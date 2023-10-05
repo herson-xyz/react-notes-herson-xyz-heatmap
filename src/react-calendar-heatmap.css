@@ -118,8 +118,12 @@
   fill: #beaef6;
 }
 .react-calendar-heatmap .color-focus-writing {
-  fill: #E1AD01;
+  fill: #FFF7D0;
 }
 .react-calendar-heatmap .color-focus-no-focus {
   fill: #aaa;
 }
+
+/*
+ * Color palette generator: https://mycolor.space/?hex=%23BEAEF6&sub=1
+ */
