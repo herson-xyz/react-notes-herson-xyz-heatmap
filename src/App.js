@@ -11,6 +11,7 @@ const items = [
   { color: '#AEF6E2', label: 'Developing a sound aesthetic', link: '' },
   { color: '#F6AEC2', label: 'Developing a visual aesthetic', link: '' },
   { color: '#beaef6', label: 'Philosophy of Networks', link: '' },
+  { color: '#E1AD01', label: 'Writing Assignments', link: '' },
 ];
 
 export default function App()

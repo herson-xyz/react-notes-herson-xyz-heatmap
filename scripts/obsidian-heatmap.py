@@ -48,6 +48,8 @@ def get_focus(filepath):
                 return 'visuals'
             elif 'Philosophy of Networks' in line:
                 return 'av'
+            elif 'Writing Assignments' in line:
+                return 'writing'
     return 'no-focus'
 
 
