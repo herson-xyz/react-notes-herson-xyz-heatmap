@@ -109,15 +109,15 @@
   fill: #02f5c0;
 }
 .react-calendar-heatmap .color-focus-sound {
-  fill: #AEF6E2;
+  fill: #C26A62;
 }
 .react-calendar-heatmap .color-focus-visuals {
-  fill: #F6AEC2;
+  fill: #06947B;
 }
-.react-calendar-heatmap .color-focus-av {
+.react-calendar-heatmap .color-focus-prototype {
   fill: #beaef6;
 }
-.react-calendar-heatmap .color-focus-writing {
+.react-calendar-heatmap .color-focus-research {
   fill: #484554;
 }
 .react-calendar-heatmap .color-focus-no-focus {

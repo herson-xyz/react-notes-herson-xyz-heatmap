@@ -10,10 +10,10 @@ import './styles.css';
 
 const today = new Date();
 const items = [
-  { color: '#AEF6E2', label: 'Developing a sound aesthetic', link: '' },
-  { color: '#F6AEC2', label: 'Developing a visual aesthetic', link: '' },
-  { color: '#beaef6', label: 'Philosophy of Networks', link: '' },
-  { color: '#484554', label: 'Writing Assignments', link: '' },
+  { color: '#C26A62', label: 'Developing a sound aesthetic', link: '' },
+  { color: '#06947B', label: 'Developing a visual aesthetic', link: '' },
+  { color: '#beaef6', label: 'Prototype', link: '' },
+  { color: '#484554', label: 'Research', link: '' },
 ];
 
 export default function App()

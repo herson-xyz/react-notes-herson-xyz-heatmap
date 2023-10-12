@@ -46,10 +46,10 @@ def get_focus(filepath):
                 return 'sound'
             elif 'Developing a visual aesthetic' in line:
                 return 'visuals'
-            elif 'Philosophy of Networks' in line:
-                return 'av'
-            elif 'Writing Assignments' in line:
-                return 'writing'
+            elif 'Prototype' in line:
+                return 'prototype'
+            elif 'Research' in line:
+                return 'research'
     return 'no-focus'
 
 
