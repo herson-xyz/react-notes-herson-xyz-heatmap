@@ -72,53 +72,14 @@
 }
 
 /*
- * Focus color scale
+ * Focus property color scale
  */
 
-/* .react-calendar-heatmap .color-focus-no-focus {
-  fill: #010202;
-}
-.react-calendar-heatmap .color-focus-three-js {
-  fill: #beaef6;
-}
-.react-calendar-heatmap .color-focus-react-three-fiber {
-  fill: #988BC4;
-}
-.react-calendar-heatmap .color-focus-react {
-  fill: #726893;
-}
-.react-calendar-heatmap .color-focus-touchdesigner {
-  fill: #f6beae;
-}
-.react-calendar-heatmap .color-focus-livecoding {
-  fill: #aef6be;
-}
-.react-calendar-heatmap .color-focus-XR {
-  fill: #e2aef6;
-}
-.react-calendar-heatmap .color-focus-geometry-nodes {
-  fill: #7eb5f4;
-}
-.react-calendar-heatmap .color-focus-3d-scanning {
-  fill: #02f5c0;
-}
-
-*/
-
-.react-calendar-heatmap .color-focus-technical-research {
-  fill: #02f5c0;
-}
-.react-calendar-heatmap .color-focus-sound {
-  fill: #C26A62;
-}
-.react-calendar-heatmap .color-focus-visuals {
-  fill: #06947B;
-}
 .react-calendar-heatmap .color-focus-prototype {
   fill: #beaef6;
 }
 .react-calendar-heatmap .color-focus-research {
-  fill: #484554;
+  fill: #51D7D0;
 }
 .react-calendar-heatmap .color-focus-no-focus {
   fill: #aaa;

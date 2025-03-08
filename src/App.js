@@ -10,10 +10,8 @@ import './styles.css';
 
 const today = new Date();
 const items = [
-  { color: '#C26A62', label: 'Developing a sound aesthetic', link: '' },
-  { color: '#06947B', label: 'Developing a visual aesthetic', link: '' },
   { color: '#beaef6', label: 'Prototype', link: '' },
-  { color: '#484554', label: 'Research', link: '' },
+  { color: '#51D7D0', label: 'Research', link: '' },
 ];
 
 export default function App()
